@@ -10,6 +10,7 @@
 header{
   background-color:rgb(9, 109, 134);
   border-radius: 50px;
+  font-family: 'Times New Roman', Times, serif;
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
   -ms-border-radius: 50px;
@@ -24,8 +25,8 @@ h1{
 h2{
   color: white;
   text-align: center;
-  font-family: 'Bebas Neue', cursive;
   border-radius: 10px;
+  font-family: 'Times New Roman', Times, serif;
   background-color:rgb(9, 109, 134);
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -120,7 +121,7 @@ ul{
   color: white;
   border-bottom-right-radius: 15px;
   border-bottom-left-radius: 15px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Times New Roman', Times, serif;
   overflow:  hidden;
   white-space: nowrap;
   animation: typingAnim 18s steps(1000);
